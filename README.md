@@ -1,4 +1,4 @@
-这是我制作的安全+agent智能体的模板
+这是我制作的安全+agent智能体的模板框架
 ```
 ├── main.py              项目入口，一键启动 Mock API 服务 + Gradio 界面
 ├── config.py            集中管理所有配置项（API Key、端口、模型名等）
