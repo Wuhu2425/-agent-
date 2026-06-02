@@ -1,5 +1,5 @@
 这是我制作的安全+agent智能体的模板
-
+```
 ├── main.py              项目入口，一键启动 Mock API 服务 + Gradio 界面
 ├── config.py            集中管理所有配置项（API Key、端口、模型名等）
 ├── requirements.txt     Python 依赖包列表
@@ -32,7 +32,7 @@
 │
 └── data/                数据目录
     └── vulnerabilities.xlsx 示例安全知识数据
-    
+   ```
 以下是分工对应文件夹的文件，有不同的意见可以直接和我说
 
 agent模块负责人--->agent文件夹
