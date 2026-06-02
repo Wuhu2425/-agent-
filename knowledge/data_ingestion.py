@@ -1,0 +1,1 @@
+#数据入库脚本-从 Excel 读取安全数据 → Embedding → ChromaDB
