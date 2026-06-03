@@ -45,6 +45,6 @@ prompt负责人--->prompt文件夹
 
 RAG检索--->knowledge/rag_retriever
 
-ChromaDB管理+Embedding管理--->knowledge/embedding_manager，chroma_client，knowledge/data_ingestion
+ChromaDB管理+Embedding管理--->knowledge/embedding_manager，chroma_client，data_ingestion
                 
 Gradio界面负责人--->ui文件夹+main
