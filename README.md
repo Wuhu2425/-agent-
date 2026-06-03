@@ -41,7 +41,7 @@ prompt负责人--->prompt文件夹
 
 工具模拟负责人--->tools文件夹
 
-数据采集--->data/vulnerabilities.xlsx（项目内未包含）— 安全知识数据采集与维护
+数据采集--->data/vulnerabilities.xlsx（项目模板内未包含）— 安全知识数据采集与维护
 
 RAG检索--->knowledge/rag_retriever
 
